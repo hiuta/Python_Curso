@@ -1,0 +1,2 @@
+miprimervariable = "hola"
+print(miprimervariable)
